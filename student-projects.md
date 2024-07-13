@@ -13,6 +13,11 @@ This list is my attempt to try and bridge this gap. It's a collection of ideas t
 - the work is genuinely useful & novel, not a toy example
 - minimal MVP is sufficient to provide value
 - ideally even the "grunt work" provides teaching value (like learning how to deploy a web app / how to setup a database etc)
+- niche
+  - there are a lot of things that would be useful but no one is doing them, because it's too niche/specific
+  - but that is often a really good way to make your first useful contribution to society
+  - my most successful piece of writing ever was "beginner's guide to graphics shaders" and it was because I couldn't find anything online explaining what I needed, so I wrote it
+- anything you try to google, and can't find a straightforward answer. You can research it & your own explanation in your own words, and that will be more valuable than whatever any expert can write
  
 Examples:
 
