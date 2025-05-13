@@ -16,12 +16,19 @@ The broad categories of the work are:
 
 ## Project ideas
 
-TODO
+**(1) Bluesky app to semantically cluster all replies to a given thread** 
 
-- Lexicon analysis
-- Treeverse app
+[Treeverse](https://github.com/paulgb/Treeverse) is an app that can take any post on Bluesky and visualize all replies in a tree format. What we want is something very similar, except displaying the replies semantically clustered. 
+
+<img src="https://github.com/user-attachments/assets/529f7691-32aa-4ce6-bd3b-c42cac74bf19" width=450>
+
 
 ## Background reading
 
-TODO
+- [How we crowdsourced 5 million tweets](https://omarshehata.substack.com/p/twitter-shut-off-api-access-users) and the long term vision of that project.
 
+See especially the [attributes & language API](https://developers.perspectiveapi.com/s/about-the-api-attributes-and-languages?language=en_US#bridging) that [Andy_Matuschak](https://x.com/andy_matuschak/status/1780739603617739234) discussed wanting to see someone prototype (no one has yet!!!)
+
+- [The Neighborhood Map & Virtual Feeds](https://alexpacheco.substack.com/p/filtering-the-information-network) - on a better way to find information on social media that can completely change the nature of how ideas spread
+
+> Propagandists will also be disrupted as targeting methods will have changed. Decentralizing the network makes their messaging increasingly inefficient and they’ll have to expand their number of operators for wider presence in more niche neighborhoods. But in neighborhoods where more people know each other, visitors and other foreign actors are put at a disadvantage
