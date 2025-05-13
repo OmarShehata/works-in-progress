@@ -48,6 +48,14 @@ As a way to reverse engineer ad targeting. Make a game out of it?
 
 Make a game out of the "good and evil" app
 
+**(7) TODO: right wing / left wing**
+
+> a browser plugin that rewrites all comments about political tribes to be about the other one and you have to guess which one is fake
+
+<img src="https://github.com/user-attachments/assets/c81d83a7-f2dd-4615-b752-5248e70b1a85" width=350>
+
+https://x.com/DefenderOfBasic/status/1887577073340035082
+
 ## Background reading
 
 - [Open source semantic embedding, search & clustering in NodeJS](https://dev.to/omar4ur/open-source-semantic-embedding-search-clustering-in-nodejs-23om) - useful for reference for what semantic embeddings are and how to generate them
@@ -60,6 +68,12 @@ See especially the [attributes & language API](https://developers.perspectiveapi
 > Propagandists will also be disrupted as targeting methods will have changed. Decentralizing the network makes their messaging increasingly inefficient and they’ll have to expand their number of operators for wider presence in more niche neighborhoods. But in neighborhoods where more people know each other, visitors and other foreign actors are put at a disadvantage
 
 - [University of Zurich unauthorized experiment on reddit scandal](https://www.newscientist.com/article/2478336-reddit-users-were-subjected-to-ai-powered-experiment-without-consent/) - this is significant because they were trying to do the same thing we are trying to do, but they treated people as subjects, instead of active participants in the research. In our paradigm, the subject must themselves be aware that they are being studied, they have to choose to participate, because they WANT to answer the question/because the answer matters to them.
+
+## Inspiration
+
+- Ideological turing test
+- https://ismy.blue/
+- https://neal.fun/absurd-trolley-problems/ -> like this but have a way to export the data / fork it and run it with your own questions
 
 ## Side quests / positive externalities 
 
