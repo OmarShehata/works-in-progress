@@ -34,7 +34,7 @@ Can also try it on bluesky datasets as a control group.
 
 **(3) TODO: the "how are you feeling today" app**
 
-This is more of an art project, but it can easily go viral and be used for lots of different experiments. This contributes to (1) explaining to the general public how semantic embeddings work 
+This is more of an art project, but it can easily go viral and be used for lots of different experiments. This contributes to (1) explaining to the general public how semantic embeddings work (2) how to navigate latent space
 
 **(4) TODO: real-time CSV to 2D embeddings map**
 
