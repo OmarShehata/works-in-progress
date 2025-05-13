@@ -24,6 +24,14 @@ The broad categories of the work are:
 
 What this will do is reveal "the shape" of the discourse. When a politician or a journalist posts something and gets thousands of replies, usually they all fall into a few "buckets" (people tend to say the same thing over & over). This tool will help surface novel ideas, and potentially coordinated bot activity.  
 
+**(2) Implement "view source" on an idea to see its history in a given network**
+
+As [described in this viral tweet](https://x.com/DefenderOfBasic/status/1868816060599955560), this is a fairly simple prototype that doesn't yet exist. Can use the Twitter Community Archive dataset https://www.community-archive.org/.
+
+We should be able to describe any idea (like "memetics, the study of how ideas spread, propaganda & narratives") and use semantic search to show (1) the earliest occurence of this idea (2) a graph of how discussion around it rises & falls over time (3) bonus point, add emotional sentiment, to see if the sentiment around the idea changes over time.
+
+Can also try it on bluesky datasets as a control group. 
+
 ## Background reading
 
 - [How we crowdsourced 5 million tweets](https://omarshehata.substack.com/p/twitter-shut-off-api-access-users) and the long term vision of that project.
