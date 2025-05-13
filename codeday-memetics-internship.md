@@ -32,8 +32,17 @@ We should be able to describe any idea (like "memetics, the study of how ideas s
 
 Can also try it on bluesky datasets as a control group. 
 
+**(3) TODO: the "how are you feeling today" app**
+
+This is more of an art project, but it can easily go viral and be used for lots of different experiments. This contributes to (1) explaining to the general public how semantic embeddings work 
+
+**(4) TODO: real-time CSV to 2D embeddings map**
+
+Can do it either with maplibre or nomic atlas. Similar in spirit to the "how are you feeling" app but more interoperable. 
+
 ## Background reading
 
+- [Open source semantic embedding, search & clustering in NodeJS](https://dev.to/omar4ur/open-source-semantic-embedding-search-clustering-in-nodejs-23om) - useful for reference for what semantic embeddings are and how to generate them
 - [How we crowdsourced 5 million tweets](https://omarshehata.substack.com/p/twitter-shut-off-api-access-users) and the long term vision of that project.
 
 See especially the [attributes & language API](https://developers.perspectiveapi.com/s/about-the-api-attributes-and-languages?language=en_US#bridging) that [Andy_Matuschak](https://x.com/andy_matuschak/status/1780739603617739234) discussed wanting to see someone prototype (no one has yet!!!)
