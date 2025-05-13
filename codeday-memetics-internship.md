@@ -22,6 +22,7 @@ The broad categories of the work are:
 
 <img src="https://github.com/user-attachments/assets/529f7691-32aa-4ce6-bd3b-c42cac74bf19" width=450>
 
+What this will do is reveal "the shape" of the discourse. When a politician or a journalist posts something and gets thousands of replies, usually they all fall into a few "buckets" (people tend to say the same thing over & over). This tool will help surface novel ideas, and potentially coordinated bot activity.  
 
 ## Background reading
 
@@ -32,3 +33,11 @@ See especially the [attributes & language API](https://developers.perspectiveapi
 - [The Neighborhood Map & Virtual Feeds](https://alexpacheco.substack.com/p/filtering-the-information-network) - on a better way to find information on social media that can completely change the nature of how ideas spread
 
 > Propagandists will also be disrupted as targeting methods will have changed. Decentralizing the network makes their messaging increasingly inefficient and they’ll have to expand their number of operators for wider presence in more niche neighborhoods. But in neighborhoods where more people know each other, visitors and other foreign actors are put at a disadvantage
+
+- [University of Zurich unauthorized experiment on reddit scandal](https://www.newscientist.com/article/2478336-reddit-users-were-subjected-to-ai-powered-experiment-without-consent/) - this is significant because they were trying to do the same thing we are trying to do, but they treated people as subjects, instead of active participants in the research. In our paradigm, the subject must themselves be aware that they are being studied, they have to choose to participate, because they WANT to answer the question/because the answer matters to them.
+
+## Side quests / positive externalities 
+
+These are additional goals that are not projects in themselves but would be a very valuable secondary goal to accomplish.
+
+- **Write down a "beginner's guide to open source memetics"** - keep track of all the resources that were useful to you, including technical ones like good libraries to use for semantic embeddings/sentiment analysis, as well as theoratical/big picture vision. This acts as a way to show your work to future employers, and pave the way for future contributors to this field
