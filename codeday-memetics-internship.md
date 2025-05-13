@@ -40,6 +40,14 @@ This is more of an art project, but it can easily go viral and be used for lots 
 
 Can do it either with maplibre or nomic atlas. Similar in spirit to the "how are you feeling" app but more interoperable. 
 
+**(5) TODO: crowd sourced ad trackers**
+
+As a way to reverse engineer ad targeting. Make a game out of it?
+
+**(6) TODO: semantic embeddings as a cultural mirror**
+
+Make a game out of the "good and evil" app
+
 ## Background reading
 
 - [Open source semantic embedding, search & clustering in NodeJS](https://dev.to/omar4ur/open-source-semantic-embedding-search-clustering-in-nodejs-23om) - useful for reference for what semantic embeddings are and how to generate them
