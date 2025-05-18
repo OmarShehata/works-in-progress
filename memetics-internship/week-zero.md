@@ -1,4 +1,4 @@
-# Code Day Open Memetics Fellowship - Week Zero
+# Code Day Open Memetics Internship - Week Zero
 
 This is a 5 week program whose goal is (1) for you to learn new tech skills, and develop a useful project that demonstrates those skills to future employers (2) contribute to the field of open source memetics. The scope of the projects you're working on is small on the technical level, but if we do it right, their impact in culture may be very significant.
 
