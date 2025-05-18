@@ -23,6 +23,9 @@ One project is to take [this visualization](https://x.com/DefenderOfBasic/status
 
 ### Recommended reading
 
+Please put any questions or important takeaways as you're reading into your devblog!
+
+- [A Beginner's Guide to Culture Science](https://defenderofthebasic.substack.com/p/a-beginners-guide-to-culture-science) - longer piece by me, essentially a "memetics theory 101" essay
 - [We're submitting a paper about the Community Archive to NeurIPS!](https://communityarchive.substack.com/cp/163294733) - skim this, this the latest piece of news in the open memetics community we're working in.
 - [The Neighborhood Map & Virtual Feeds](https://alexpacheco.substack.com/p/filtering-the-information-network) - presents a vision of how social media can (1) disrupt propaganda targeting and (2) accelerate good things spreading. The tools we're building fit very well into this vision. 
 - [Geopolitics - Blackbird.AI's Constellation Narrative Intelligence Platform](https://www.youtube.com/watch?v=8Wixy4aIY9Q) - short 1 min video showing how intelligence companies track propaganda on the internet. We basically want to develop an open source version of this kind of tool. 
