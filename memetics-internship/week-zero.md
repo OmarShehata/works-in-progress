@@ -21,7 +21,7 @@ One project is to take [this visualization](https://x.com/DefenderOfBasic/status
 
 </details>
 
-4. **Add a link to your devblog to the "list of fellows" at the bottom of this page** (fork this repo, and open a PR).
+4. **Add a link to your devblog to the "list of people" at the bottom of this page** (fork this repo, and open a PR).
 5. **Schedule a team meeting** - we'll have 2x a week team meetings (Mondays & Fridays). Let me know your availability on those days.
 6. **Join the open memetics Discord** - this is optional but, nice to keep track of what is happening in the wider ecosystem, see link here: https://www.community-archive.org/
 
@@ -35,6 +35,6 @@ Please put any questions or important takeaways as you're reading into your devb
 - [Geopolitics - Blackbird.AI's Constellation Narrative Intelligence Platform](https://www.youtube.com/watch?v=8Wixy4aIY9Q) - short 1 min video showing how intelligence companies track propaganda on the internet. We basically want to develop an open source version of this kind of tool. 
 - [Cosmos Institute and FIRE are funding early-stage projects that advance truth-seeking](https://cosmosgrants.org/truth) - announced a few days ago, there are some potential grants here for the kind of projects we're doing. Useful to look at as a reference for what types of projects people want to fund.
 
-### List of fellows in this program
+### List of people in this program
 
 - (no one is here yet!!)
