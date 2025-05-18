@@ -7,7 +7,7 @@ Each week will have target milestones, and some required reading. This first wee
 ### Deliverables
 
 1. **Start a devblog** - this is where you'll keep track of your work & what you're learning as you go. This is for me to keep track of your work & review it, but it will also be useful for when you're doing the final project write up, as well as for potentially collaborating with others or applying for funding. 
-2. **Go through the NodeJS semantic embeddings tutorial** ([link](https://dev.to/omar4ur/open-source-semantic-embedding-search-clustering-in-nodejs-23om)) - This is a fundamental skill for any computational social science type of work. A lot of our projects will build on this technique that allows us to numerically compute the relationship between ideas & concepts in culture.
+2. **Go through the NodeJS semantic embeddings tutorial** ([link](https://dev.to/omar4ur/open-source-semantic-embedding-search-clustering-in-nodejs-23om)) - This is a fundamental skill for any computational social science type of work. A lot of our projects will build on this technique that allows us to numerically compute the relationship between ideas & concepts in culture. Bonus: write a piece of code that can extract all of Emmett Shear's tweets about memetics. You can download [all of his tweets here](https://www.community-archive.org/user/905201).
 3. **Write down your project in your devblog** - I'll work with you on this. Ideally we want to pick a project that involves the tech skills you want to develop, and one that you're excited about/you understand how it fits into the larger vision. It should contain an MVP that can be completed in 1-2 weeks, and a few "stretch goals" beyond that.
 
 <details><summary>Example project scope & stretch goals</summary>
