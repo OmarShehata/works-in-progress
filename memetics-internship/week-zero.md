@@ -22,7 +22,8 @@ One project is to take [this visualization](https://x.com/DefenderOfBasic/status
 </details>
 
 4. **Add a link to your devblog to the "list of fellows" at the bottom of this page** (fork this repo, and open a PR).
-5. **Schedule a team meeting** - we'll have 2x a week team meetings (Mondays & Fridays). Let me know your availability on those days.  
+5. **Schedule a team meeting** - we'll have 2x a week team meetings (Mondays & Fridays). Let me know your availability on those days.
+6. **Join the open memetics Discord** - this is optional but, nice to keep track of what is happening in the wider ecosystem, see link here: https://www.community-archive.org/
 
 ### Recommended reading
 
