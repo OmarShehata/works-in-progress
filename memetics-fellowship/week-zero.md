@@ -1,6 +1,6 @@
 # Code Day Open Memetics Fellowship - Week Zero
 
-This is a 5 week program whose goal is (1) for you to learn new tech skills, and develop a useful project that demonstrates those skills to future employers (2) contribute to the field of open source memetics. The scope of the projects you're working on is small on the technical level, but if we do it right, their impact in culture may be very significant. 
+This is a 5 week program whose goal is (1) for you to learn new tech skills, and develop a useful project that demonstrates those skills to future employers (2) contribute to the field of open source memetics. The scope of the projects you're working on is small on the technical level, but if we do it right, their impact in culture may be very significant.
 
 Each week will have target milestones, and some required reading. This first week will focus on onboarding, defining the scope of your project, and getting to know the others in the program. 
 
@@ -19,13 +19,14 @@ One project is to take [this visualization](https://x.com/DefenderOfBasic/status
 </details>
 
 4. **Add a link to your devblog to the "list of fellows" at the bottom of this page** (fork this repo, and open a PR).
+5. **Schedule a team meeting** - we'll have 2x a week team meetings (Mondays & Fridays). Let me know your availability on those days.  
 
 ### Recommended reading
 
-- we're writing a paper 
-- neighborhoods
-- Michael Garfield's thing
-- Blackbird AI
+- [We're submitting a paper about the Community Archive to NeurIPS!](https://communityarchive.substack.com/cp/163294733) - skim this, this the latest piece of news in the open memetics community we're working in.
+- [The Neighborhood Map & Virtual Feeds](https://alexpacheco.substack.com/p/filtering-the-information-network) - presents a vision of how social media can (1) disrupt propaganda targeting and (2) accelerate good things spreading. The tools we're building fit very well into this vision. 
+- [Geopolitics - Blackbird.AI's Constellation Narrative Intelligence Platform](https://www.youtube.com/watch?v=8Wixy4aIY9Q) - short 1 min video showing how intelligence companies track propaganda on the internet. We basically want to develop an open source version of this kind of tool. 
+- [Cosmos Institute and FIRE are funding early-stage projects that advance truth-seeking](https://cosmosgrants.org/truth) - announced a few days ago, there are some potential grants here for the kind of projects we're doing. Useful to look at as a reference for what types of projects people want to fund.
 
 ### List of fellows in this program
 
