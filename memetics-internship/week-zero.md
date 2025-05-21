@@ -37,4 +37,4 @@ Please put any questions or important takeaways as you're reading into your devb
 
 ### List of people in this program
 
-- (no one is here yet!!)
+- [Xiao Xu](https://ximixu.dev)
