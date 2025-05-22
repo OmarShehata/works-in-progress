@@ -37,5 +37,5 @@ Please put any questions or important takeaways as you're reading into your devb
 
 ### List of people in this program
 
-- [Xiao Xu](https://ximixu.dev)
-- [Angela Fujihara](https://github.com/A-Fujihara/Memetics)
+- Xiao Xu - https://ximixu.dev/posts/
+- Angela Fujihara - https://github.com/A-Fujihara/Memetics
