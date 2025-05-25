@@ -9,6 +9,7 @@ The new technical skill you will learn this week is dimensionality reduction.
 1. **Learn how to perform PCA for dimensionality reduction** - given a set of semantic embedding vectors, generate a 2D plot (can do this in javascript or python)
 2. **Reproduce the figure from Alex Avilla's youtube video** - https://github.com/DefenderOfBasic/works-in-progress/issues/63, and write about it. No one has ever done this, and I think it can kind of blow up if you do a write up. Bonus points for making an interactive version (where you can write anything and it generates that plot). [This app](https://github.com/DefenderOfBasic/good-and-evil-concepts) does the semantic embeddings in the browser so you can deploy this as a 100% static web app.
 3. **Try the Choma semantic embeddings API** - https://www.trychroma.com/pricing - this is useful for a server that can store & query embeddings. So if you wanted to, for example, [create this kind of web app](https://x.com/DefenderOfBasic/status/1874079346748776662) where any user can type anything and you cluster people based on their answers, this is how I would do it. 
+4. **Write down your project pitch** in your devblog. Should include a paragraph about what it is / why it matters, a description of the technical details of the MVP, and some stretch goals. 
 
 ### Recommended reading
 
