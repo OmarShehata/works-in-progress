@@ -6,7 +6,11 @@ This week the goal is to make concrete progress towards an MVP of each project.
 
 ### Deliverables
 
-TODO
+1. **Generate a Nomic Atlas map** (Angela) - at https://www.nomic.ai/. This should be fairly simple, they have a Python API to generate embeddings, and add them to an atlas. See: https://docs.nomic.ai/atlas/embeddings-and-retrieval/generate-embeddings
+
+Can try to take a set of tweets, or a list of emojis, or the image from the Alex Avilla video https://github.com/DefenderOfBasic/works-in-progress/issues/63
+
+2. **Recreate the psyop/vibe graph** (Michael) for one or more users. Then see if you can write a script to "detect" a change like this. Can basically count words per interval (day, or month) and then scan for deltas. 
 
 ### Recommended reading
 
