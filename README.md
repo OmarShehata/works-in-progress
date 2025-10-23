@@ -4,7 +4,7 @@ This repo is a collection of my ideas & drafts. A public place to put my WIPs so
 
 Inspired by Rosano:
 
-<img src="https://github.com/OmarShehata/works-in-progress/assets/1711126/63546160-fe25-4212-ab9d-76f5a1f80c96" width="350" />
+<img src="https://github.com/OmarShehata/works-in-progress/assets/1711126/63546160-fe25-4212-ab9d-76f5a1f80c96" width="400" />
 
 from: https://omarshehata.substack.com/p/making-software-by-cosmic-pizza-order
 
